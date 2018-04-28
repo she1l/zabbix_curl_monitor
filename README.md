@@ -1,0 +1,1 @@
+zabbix_curl_monitor
